@@ -21,5 +21,5 @@ $(call inherit-product, vendor/twrp/config/gsm.mk)
 PRODUCT_DEVICE := vili
 PRODUCT_NAME := twrp_vili
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := 2107113SI
+PRODUCT_MODEL := Xiaomi 11T Pro
 PRODUCT_MANUFACTURER := xiaomi
